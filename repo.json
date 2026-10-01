@@ -1,0 +1,8 @@
+{
+  "name": "HR Cloudstream Repo v1",
+  "description": "HR Cloudstream eklenti deposu.",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/hrtestingx/hrcsrepo/refs/heads/builds/plugins.json"
+  ]
+}
