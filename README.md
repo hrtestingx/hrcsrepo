@@ -51,13 +51,14 @@ https://raw.githubusercontent.com/hrtestingx/hrcsrepo/master/repo.json
 
 ## 📦 Depodaki Eklentiler
 
-Bu depo, farklı izleme alışkanlıklarına ve içerik türlerine özel olarak geliştirilmiş 3 bağımsız eklenti içerir:
+Bu depo, farklı izleme alışkanlıklarına ve içerik türlerine özel olarak geliştirilmiş 4 bağımsız eklenti içerir:
 
 ```
 hrcsrepo
  ├── 🍙 HR Anime          ➔ Popüler Türkçe Anime Sağlayıcıları
  ├── 🌸 HR AsianDrama       ➔ Kore, Çin, Japon Dizi ve Sineması
- └── 📱 HR ShortDrama       ➔ Dikey Mini Diziler & Reels Formatı
+ ├── 📱 HR ShortDrama       ➔ Dikey Mini Diziler & Reels Formatı
+ └── 🧸 HR Kids            ➔ Çizgi Film, Animasyon & Çocuk İçerikleri
 ```
 
 ---
@@ -117,6 +118,21 @@ Dikey ekranda hızlı tüketilebilir, 1-2 dakikalık yüzlerce bölümlük popü
 - [NetShort](https://netshort.com)
 - [ReelShort](https://www.reelshort.com)
 - [Shortizle](https://shortizle.com)
+
+</details>
+
+---
+
+### 🧸 4. HR Kids
+> **Çizgi Film, Animasyon & Çocuk Dünyası**
+
+Popüler yerli ve yabancı çizgi diziler, klasik animasyonlar ve çocuk programları.
+
+<details>
+<summary><b>Dahili Kaynaklar</b></summary>
+<br/>
+
+- [ÇizgiFilmİzle Info](https://www.cizgifilmizle.info)
 
 </details>
 
