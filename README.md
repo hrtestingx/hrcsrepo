@@ -16,6 +16,7 @@
   <a href="#-hızlı-kurulum">🚀 <b>Hızlı Kurulum</b></a> •
   <a href="#-depodaki-eklentiler">📦 <b>Eklentiler</b></a> •
   <a href="#-sıkça-sorulan-sorular-sss">❓ <b>S.S.S.</b></a> •
+  <a href="#-destek-ve-hata-bildirimi-issues">💬 <b>Destek & Hata Bildir</b></a> •
   <a href="#-yasal-bildirim--legal-disclaimer">⚖️ <b>Yasal Bildirim</b></a>
 </p>
 
@@ -51,14 +52,15 @@ https://raw.githubusercontent.com/hrtestingx/hrcsrepo/master/repo.json
 
 ## 📦 Depodaki Eklentiler
 
-Bu depo, farklı izleme alışkanlıklarına ve içerik türlerine özel olarak geliştirilmiş 4 bağımsız eklenti içerir:
+Bu depo, farklı izleme alışkanlıklarına ve içerik türlerine özel olarak geliştirilmiş 5 bağımsız eklenti içerir:
 
 ```
 hrcsrepo
  ├── 🍙 HR Anime          ➔ Popüler Türkçe Anime Sağlayıcıları
  ├── 🌸 HR AsianDrama       ➔ Kore, Çin, Japon Dizi ve Sineması
  ├── 📱 HR ShortDrama       ➔ Dikey Mini Diziler & Reels Formatı
- └── 🧸 HR Kids            ➔ Çizgi Film, Animasyon & Çocuk İçerikleri
+ ├── 🧸 HR Kids            ➔ Çizgi Film, Animasyon & Çocuk İçerikleri
+ └── 📺 HR Live            ➔ Canlı TV, Spor & Tematik Yayınlar
 ```
 
 ---
@@ -133,6 +135,28 @@ Popüler yerli ve yabancı çizgi diziler, klasik animasyonlar ve çocuk program
 <br/>
 
 - [ÇizgiFilmİzle Info](https://www.cizgifilmizle.info)
+- [Çizgi Site](https://www.cizgi.site)
+- [Çizgi ve Dizi](https://cizgivedizi.net)
+- [TRT Çocuk](https://www.trtcocuk.net.tr)
+
+</details>
+
+---
+
+### 📺 5. HR Live
+> **Canlı TV, Spor & Tematik Yayınlar**
+
+Ulusal kanallar, canlı spor yayınları, sinema, belgesel ve çocuk kanalları için hızlı ve kararlı canlı yayın akışları.
+
+<details>
+<summary><b>Dahili Kategoriler</b></summary>
+<br/>
+
+- 📺 **Ulusal & Genel TV**
+- ⚽ **Spor Kanalları**
+- 🎬 **Sinema & Dizi**
+- 🌍 **Belgesel Kanalları**
+- 🧒 **Çocuk Kanalları**
 
 </details>
 
@@ -157,6 +181,20 @@ Depo adresimiz CloudStream'e eklendikten sonra yeni bir sürüm çıktığında 
 <br/>
 CloudStream içinde <b>Ayarlar ➔ Uzantılar ➔ Eklenti Adı (örn: HR Anime)</b> üzerine gelin ve kumandanızın orta (OK) tuşuna basarak eklenti ayarlarına girin. Açılan menüden kaynakları açıp kapatabilir veya yeni domain girebilirsiniz.
 </details>
+
+---
+
+## 💬 Destek ve Hata Bildirimi (Issues)
+
+Bir sorun fark ettiyseniz, yeni bir site/eklenti önermek veya aklınıza takılan bir soruyu sormak istiyorsanız lütfen GitHub üzerinden konu açın:
+
+* 🐛 **Çalışmayan bir video veya hata mı var?** ➔ [Hata Bildir](https://github.com/hrtestingx/hrcsrepo/issues/new?template=bug_report.yml)
+* 🌐 **Yeni bir site eklenmesini mi istiyorsunuz?** ➔ [Site İsteğinde Bulun](https://github.com/hrtestingx/hrcsrepo/issues/new?template=site_request.yml)
+* 🧩 **Yeni bir eklenti paketi mi öneriyorsunuz?** ➔ [Eklenti Öner](https://github.com/hrtestingx/hrcsrepo/issues/new?template=plugin_request.yml)
+* ❓ **Kullanım veya ayarlarla ilgili sorunuz mu var?** ➔ [Soru Sor / Bilgi Al](https://github.com/hrtestingx/hrcsrepo/issues/new?template=question.yml)
+
+> [!IMPORTANT]
+> Konu açmadan önce lütfen **[Issue Kuralları Rehberimizi](.github/ISSUE_RULES.md)** okuyun. Kurallara uymayan, şablonu doldurulmamış veya detay içermeyen bildirimler doğrudan kapatılmaktadır.
 
 ---
 

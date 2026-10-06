@@ -1,0 +1,65 @@
+name: "🧩 Yeni Eklenti İsteği"
+description: "Depoya eklenmesini istediğiniz tamamen yeni bir eklenti (kategori/içerik türü) önerin"
+title: "[Eklenti İsteği]: "
+labels: ["enhancement", "plugin-request"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ### 💡 Yeni Eklenti Önermeden Önce:
+        * Bu form, mevcut eklentilere tek bir site eklemek için **değildir** (onun için *Yeni Site / Kaynak İsteği* formunu kullanın).
+        * Bu form, depoya eklenebilecek **yeni ve bağımsız bir konsept/eklenti paketi** (örneğin: *HR Belgesel*, *HR Dizi/Film* vb.) önermek içindir.
+        * Önerilen eklentinin CloudStream altyapısında çalışabilir video/medya kaynaklarına sahip olması gerekir.
+
+  - type: input
+    id: plugin_name
+    attributes:
+      label: "Önerilen Eklenti Adı"
+      placeholder: "Örn: HR Belgesel / HR Sinema"
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: media_types
+    attributes:
+      label: "İçerik Türü (CloudStream TvType)"
+      description: "Bu eklenti hangi tür içerikleri kapsayacak?"
+      options:
+        - label: "Film (Movie)"
+        - label: "Dizi (TvSeries)"
+        - label: "Belgesel (Documentary)"
+        - label: "Anime / Animasyon"
+        - label: "Canlı Yayın / TV"
+        - label: "Diğer / Özel Format"
+    validations:
+      required: true
+
+  - type: textarea
+    id: candidate_sites
+    attributes:
+      label: "Örnek Kaynaklar ve Web Siteleri"
+      description: "Bu eklenti çatısı altında toplanabilecek 2-3 adet örnek, aktif ve çalışan web sitesi belirtin."
+      placeholder: "1. https://ornek-belgesel1.com&#10;2. https://ornek-belgesel2.com"
+    validations:
+      required: true
+
+  - type: textarea
+    id: why_separate_plugin
+    attributes:
+      label: "Neden Ayrı Bir Eklenti Olmalı?"
+      description: "Bu içerikler neden mevcut eklentilerin (Anime, Asya, Çocuk, Kısa Dizi vb.) içine eklenemez? Ayrı bir eklenti olmasının kullanıcılara ne faydası olacak?"
+      placeholder: "Mevcut eklentiler bu türe hitap etmiyor, tamamen bağımsız bir izleyici kitlesi var..."
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: acknowledgements
+    attributes:
+      label: "Onay ve Kontroller"
+      options:
+        - label: "Önerdiğim kaynakların aktif ve çalışır durumda olduğunu kontrol ettim."
+          required: true
+        - label: "Bu içerik türünün mevcut eklentilerden biriyle karşılanamadığını doğruladım."
+          required: true
+        - label: "Önerimin yetişkin (+18) veya yasa dışı bahis kaynakları içermediğini taahhüt ederim."
+          required: true

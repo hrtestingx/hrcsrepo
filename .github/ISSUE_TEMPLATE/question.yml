@@ -1,0 +1,63 @@
+name: "❓ Soru & Bilgi Alma (Yardım Talebi)"
+description: "Eklentilerin kullanımı, kurulum, ayarlar veya genel işleyiş hakkında soru sorun"
+title: "[Soru]: "
+labels: ["question", "help wanted"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ### 💡 Soru Sormadan Önce:
+        1. **README & S.S.S.:** Lütfen ana sayfadaki [Sıkça Sorulan Sorular (S.S.S.)](https://github.com/hrtestingx/hrcsrepo#-%EF%B8%8F-s%C4%B1k%C3%A7a-sorulan-sorular-sss) bölümünü kontrol edin. Birçok genel sorunun yanıtı orada yer almaktadır.
+        2. **Daha Önce Sorulmuş Sorular:** Benzer bir sorunun daha önce yanıtlanıp yanıtlanmadığını görmek için [Kapalı Konuları](https://github.com/hrtestingx/hrcsrepo/issues?q=is%3Aissue+label%3Aquestion) aratabilirsiniz.
+        3. **Hata Bildirimi Değildir:** Eğer çalışmayan bir video veya eklenti çökmesi yaşıyorsanız, lütfen bu şablon yerine **"Hata Bildirimi"** şablonunu kullanın.
+
+  - type: dropdown
+    id: topic_category
+    attributes:
+      label: "Konu Hangi Alanla İlgili?"
+      options:
+        - "📦 Genel Kurulum & Depo Bağlantısı"
+        - "🍙 HR Anime"
+        - "🌸 HR AsianDrama"
+        - "📱 HR ShortDrama"
+        - "🧸 HR Kids"
+        - "📺 HR Live"
+        - "🔀 TurkishMix"
+        - "⚙️ DNS, VPN veya Ağ Ayarları"
+        - "💡 Diğer"
+    validations:
+      required: true
+
+  - type: input
+    id: question_summary
+    attributes:
+      label: "Kısa Konu Özeti"
+      placeholder: "Örn: Android TV kumandasında ayarlar menüsüne nasıl girilir?"
+    validations:
+      required: true
+
+  - type: textarea
+    id: question_details
+    attributes:
+      label: "Sorunuz veya Öğrenmek İstediğiniz Detaylar"
+      description: "Aklınıza takılan soruyu, öğrenmek istediğiniz teknik konuyu veya yaşadığınız kurulum kafa karışıklığını açıkça yazın."
+      placeholder: "Uygulamada şu ayarı açtığımda ne işe yaradığını tam anlayamadım..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: attempted_steps
+    attributes:
+      label: "Denediğiniz Yollar (Varsa)"
+      description: "Bu konuda şimdiye kadar denediğiniz yöntemler veya baktığınız kaynaklar var mı?"
+      placeholder: "README'deki şu adımı denedim ancak..."
+
+  - type: checkboxes
+    id: acknowledgements
+    attributes:
+      label: "Onay"
+      options:
+        - label: "README ve S.S.S. bölümünü kontrol ettim."
+          required: true
+        - label: "Bunun bir hata/çökme bildirimi olmadığını, genel bir bilgi edinme/soru talebi olduğunu anlıyorum."
+          required: true

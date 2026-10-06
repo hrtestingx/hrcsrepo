@@ -1,0 +1,61 @@
+name: "🌐 Yeni Site / Kaynak İsteği"
+description: "Eklentilere eklenmesini istediğiniz yeni bir site veya video kaynağı önerin"
+title: "[Site İsteği]: "
+labels: ["enhancement", "site-request"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ### 📌 Yeni Site Önermeden Önce:
+        * Sitenin **aktif**, **açık** ve videolarının **çalışır durumda** olduğunu kontrol edin.
+        * Yetişkin (+18), bahis/kumar veya yasa dışı yayın siteleri **kabul edilmez**.
+        * Sitenin içeriklerinin depodaki mevcut eklentilerden biriyle örtüşmesi gerekir.
+
+  - type: dropdown
+    id: target_plugin
+    attributes:
+      label: "Hangi Eklenti İçin Uygun?"
+      options:
+        - "🍙 HR Anime"
+        - "🌸 HR AsianDrama"
+        - "📱 HR ShortDrama"
+        - "🧸 HR Kids"
+        - "📺 HR Live"
+    validations:
+      required: true
+
+  - type: input
+    id: site_name_url
+    attributes:
+      label: "Site Adı ve Güncel Bağlantısı (URL)"
+      placeholder: "Örn: https://ornek-cizgifilm.com"
+    validations:
+      required: true
+
+  - type: textarea
+    id: content_info
+    attributes:
+      label: "İçerik ve Neden Eklenmeli?"
+      description: "Sitede ne tür içerikler var? Depodaki mevcut sitelere kıyasla ne gibi bir avantajı/farkı bulunuyor?"
+      placeholder: "Türkçe dublajlı klasik çizgi filmler mevcut / Özel fansub çevirileri bulunuyor..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: player_info
+    attributes:
+      label: "Video Oynatıcılar ve Korumalar (Biliyorsanız)"
+      description: "Sitede hangi video oynatıcılar (Vidmoly, Sibnet, VK, YouTube, Google Drive vb.) veya korumalar (Cloudflare Turnstile vb.) kullanılıyor?"
+      placeholder: "Videolar doğrudan Vidmoly ve VK üzerinden oynatılıyor..."
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: "Şartlar & Onay"
+      options:
+        - label: "Sitenin şu anda aktif ve erişilebilir olduğunu tarayıcımdan doğruladım."
+          required: true
+        - label: "Bu site için daha önce açık bir istek bulunmadığını kontrol ettim."
+          required: true
+        - label: "Sitenin telif/yasa dışı kumar/bahis reklamı barındıran kontrolsüz bir yer olmadığını teyit ederim."
+          required: true

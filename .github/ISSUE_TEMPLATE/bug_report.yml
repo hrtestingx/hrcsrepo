@@ -1,0 +1,85 @@
+name: "🐛 Hata Bildirimi (Eklenti / Video / Çökme)"
+description: "Çalışmayan bir site, video açılmama sorunu veya eklenti çökmesi bildirin"
+title: "[Hata]: "
+labels: ["bug", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ### ⚠️ Hata Bildirmeden Önce Lütfen Kontrol Edin:
+        1. **DNS / VPN:** Türkiye'de birçok video sunucusu ISS düzeyinde engellidir. Cihazınızda **Cloudflare DNS (1.1.1.1)** veya **Google DNS (8.8.8.8)** aktif mi?
+        2. **Güncellik:** Eklentinin ve CloudStream'in en güncel sürümünü kullandığınızdan emin olun.
+        3. **Benzer Konu:** [Açık veya Kapanmış Issue'ları](https://github.com/hrtestingx/hrcsrepo/issues) aratarak bu sorunun daha önce bildirilip bildirilmediğini kontrol edin.
+
+  - type: dropdown
+    id: plugin
+    attributes:
+      label: "Hangi Eklenti?"
+      description: "Sorunun yaşandığı eklentiyi seçin."
+      options:
+        - "🍙 HR Anime"
+        - "🌸 HR AsianDrama"
+        - "📱 HR ShortDrama"
+        - "🧸 HR Kids"
+        - "📺 HR Live"
+        - "🔀 TurkishMix"
+    validations:
+      required: true
+
+  - type: input
+    id: site_name
+    attributes:
+      label: "Sorunlu Site / Kaynak"
+      description: "Sorun hangi sitede veya kanalda yaşanıyor? (Örn: Çizgi Site, AnimeciX, DiziAsya vb.)"
+      placeholder: "Örn: Çizgi Site"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: device_type
+    attributes:
+      label: "Cihaz Türü"
+      description: "CloudStream'i hangi cihazda kullanıyorsunuz?"
+      options:
+        - "Android TV / TV Box / Stick"
+        - "Android Telefon / Tablet"
+        - "Windows / PC (Emülatör)"
+        - "Diğer"
+    validations:
+      required: true
+
+  - type: input
+    id: cs_version
+    attributes:
+      label: "CloudStream Sürümü"
+      placeholder: "Örn: Pre-release v4.4.1 veya Stable"
+    validations:
+      required: true
+
+  - type: textarea
+    id: error_description
+    attributes:
+      label: "Sorunun Açıklaması"
+      description: "Ne yapmaya çalışırken sorun oluştu? Beklenen neydi, fiilen ne gerçekleşti?"
+      placeholder: "Dizinin 1. bölümüne tıkladığımda siyah ekranda kalıyor / 'Bağlantı bulunamadı' uyarısı veriyor..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: logs_or_screenshot
+    attributes:
+      label: "Hata Kaydı (Logcat) veya Ekran Görüntüsü"
+      description: "Mümkünse CloudStream içi hata kaydını (Settings -> Debug -> Export Logs) veya Logcat çıktısını buraya yapıştırın."
+      render: shell
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: "Kontrol Listesi"
+      options:
+        - label: "Benzer bir konunun daha önce açılmadığını kontrol ettim."
+          required: true
+        - label: "Farklı bir DNS veya VPN ile denedim, sorun devam ediyor."
+          required: true
+        - label: "Eklentiyi kaldırıp en güncel sürümünü tekrar kurdum."
+          required: true
