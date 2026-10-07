@@ -72,7 +72,7 @@ hrcsrepo
 Gelişmiş video oynatıcı entegrasyonları, doğrudan HLS (m3u8) akışları, Türkçe altyazı, dublaj, yerli dizi arşivi ve çoklu sunucu desteği sunar.
 
 <details>
-<summary><b>Dahili Kaynaklar (15 Sağlayıcı)</b></summary>
+<summary><b>Dahili Kaynaklar</b></summary>
 <br/>
 
 - [Yabancı Dizi](https://yabancidizi.news)
@@ -87,7 +87,11 @@ Gelişmiş video oynatıcı entegrasyonları, doğrudan HLS (m3u8) akışları, 
 - [DiziLife](https://dizi76.life)
 - [Dizilla](https://dizilla.now)
 - [DiziMom](https://www.dizimom.wiki)
+- [DiziVibe](https://dizivibe.com)
+- [DiziLab](https://dizilab.to)
+- [PuhuTV](https://puhutv.com) *(Yerli Dizi & Puhu Orijinal)*
 - [Sezonluk Dizi](https://sezonlukdizi.cc)
+- [TrDiziİzle](https://www.trdiziizle.tv) *(Yerli Dizi & Arşiv)*
 - [TvDiziler](https://tvdiziler.tv) *(Yerli Dizi)*
 - [YoTurkish (EN Altyazı)](https://yoturkish.to) *(İngilizce Altyazılı Türk Dizileri)*
 
