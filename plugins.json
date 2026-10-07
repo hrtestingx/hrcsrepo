@@ -1,0 +1,158 @@
+[
+    {
+        "url": "https://raw.githubusercontent.com/hrtestingx/hrcsrepo/builds/TurkishMix.cs3",
+        "status": 1,
+        "version": 10,
+        "name": "TurkishMix",
+        "internalName": "TurkishMix",
+        "authors": [
+            "hrtestingx",
+            "kraptor",
+            "keyiflerolsun",
+            "byayzen",
+            "kerimmkirac",
+            "nikyokki"
+        ],
+        "description": "Tek arama sonucu; Bir içeriğe girince tüm kaynaklardan linkleri toplar. Film, Dizi, Anime, Canlı TV.",
+        "fileSize": 475398,
+        "repositoryUrl": "https://github.com/hrtestingx/hrcsrepo",
+        "language": "tr",
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "Live"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=themoviedb.org",
+        "apiVersion": 1,
+        "fileHash": "sha256-a17c06880d8445d5c3316c4babfa9831c355bdfa80704b2291a347ea364a2db1"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/hrtestingx/hrcsrepo/builds/HRAsianDrama.cs3",
+        "status": 1,
+        "version": 4,
+        "name": "HR AsianDrama",
+        "internalName": "HRAsianDrama",
+        "authors": [
+            "hrtestingx"
+        ],
+        "description": "HR AsianDrama - Toplu Kaynak",
+        "fileSize": 208557,
+        "repositoryUrl": "https://github.com/hrtestingx/hrcsrepo",
+        "language": "tr",
+        "tvTypes": [
+            "AsianDrama",
+            "Movie",
+            "Anime",
+            "Others"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://webdramaturkey2.com&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-54fd287ae4f1657dc76cabf3476d1ca0fb082a3bdf95521475dbc3d20179faba"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/hrtestingx/hrcsrepo/builds/HRShortDrama.cs3",
+        "status": 1,
+        "version": 5,
+        "name": "HR ShortDrama",
+        "internalName": "HRShortDrama",
+        "authors": [
+            "hrtestingx"
+        ],
+        "description": "HR ShortDrama - Toplu Kısa Dizi & Drama Kaynakları",
+        "fileSize": 112415,
+        "repositoryUrl": "https://github.com/hrtestingx/hrcsrepo",
+        "language": "tr",
+        "tvTypes": [
+            "AsianDrama",
+            "Movie",
+            "Anime",
+            "Others"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://dramadizilerim.com&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-2678e62e3587c2d48aa03044e0fc92ca92e5b452c160e8d28b5a96debb96125d"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/hrtestingx/hrcsrepo/builds/HRAnime.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "HR Anime",
+        "internalName": "HRAnime",
+        "authors": [
+            "hrtestingx"
+        ],
+        "description": "HR Anime - Toplu Türkçe Anime Kaynakları",
+        "fileSize": 233353,
+        "repositoryUrl": "https://github.com/hrtestingx/hrcsrepo",
+        "language": "tr",
+        "tvTypes": [
+            "Anime",
+            "Others"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://animecix.tv&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-344d00c4a2ddbd4a8b06b8d9b6e46ec5dc3f3901bc44862de1cdb9e0a675b3ad"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/hrtestingx/hrcsrepo/builds/HRKids.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "HR Kids",
+        "internalName": "HRKids",
+        "authors": [
+            "hrtestingx"
+        ],
+        "description": "HR Kids - Toplu Çizgi Film, Animasyon & Çocuk İçerikleri",
+        "fileSize": 135899,
+        "repositoryUrl": "https://github.com/hrtestingx/hrcsrepo",
+        "language": "tr",
+        "tvTypes": [
+            "Cartoon",
+            "Others"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/hrtestingx/hrcsrepo/builds/icons/kids.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-7240f6b12df440bc72119ac16e892a52c132d6583a71fc5dbd44d4675ac3d159"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/hrtestingx/hrcsrepo/builds/HRLive.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "HR Live",
+        "internalName": "HRLive",
+        "authors": [
+            "hrtestingx"
+        ],
+        "description": "HR Live - Toplu Canlı TV",
+        "fileSize": 39969,
+        "repositoryUrl": "https://github.com/hrtestingx/hrcsrepo",
+        "language": "tr",
+        "tvTypes": [
+            "Live"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/hrtestingx/hrcsrepo/builds/icons/live.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-71449e47be30dbcb5de3e358865ca396cf4d2c2104d7caac5981a65b7af97012"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/hrtestingx/hrcsrepo/builds/HRSeries.cs3",
+        "status": 1,
+        "version": 2,
+        "name": "HR Series",
+        "internalName": "HRSeries",
+        "authors": [
+            "hrtestingx"
+        ],
+        "description": "HR Series - Toplu Dizi Kaynakları",
+        "fileSize": 464083,
+        "repositoryUrl": "https://github.com/hrtestingx/hrcsrepo",
+        "language": "tr",
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/hrtestingx/hrcsrepo/builds/icons/hrseries.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-8454d4bf5b3680dd09a6e7a9efa24193676810a07b387ffc2b1ac448eb5a0040"
+    }
+]
