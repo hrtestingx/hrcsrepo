@@ -33,6 +33,7 @@ Eklentilere yeni bir web sitesi veya depoya tamamen yeni bir eklenti paketi ekle
    * Yasa dışı bahis / kumar odaklı siteler,
    * Agresif ve zararlı reklam yazılımları barındıran kontrolsüz siteler **kesinlikle kabul edilmez**.
 3. **Kategori Uyumu:** Önerdiğiniz site depodaki mevcut paketlerle örtüşmelidir:
+   * **HR Series:** Popüler yabancı ve yerli dizi siteleri.
    * **HR Anime:** Yalnızca anime ve donghua siteleri.
    * **HR AsianDrama:** Yalnızca Asya (Kore, Çin, Japon, Tayland) dizileri/filmleri.
    * **HR ShortDrama:** Dikey mini drama (Reels formatı) siteleri.

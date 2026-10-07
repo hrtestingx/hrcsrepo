@@ -16,6 +16,7 @@ body:
     attributes:
       label: "Hangi Eklenti İçin Uygun?"
       options:
+        - "🎬 HR Series"
         - "🍙 HR Anime"
         - "🌸 HR AsianDrama"
         - "📱 HR ShortDrama"

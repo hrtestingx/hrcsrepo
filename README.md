@@ -2,7 +2,7 @@
 
 # 🌟 HR CloudStream Eklenti Deposu (hrcsrepo)
 
-**CloudStream 3 için en kapsamlı, kararlı ve güncel Türkçe Anime, Asya Dizileri ve Kısa Dizi arşivi.**
+**CloudStream 3 için en kapsamlı, kararlı ve güncel Türkçe Dizi, Anime, Asya Dizileri ve Kısa Dizi arşivi.**
 
 [![CloudStream 3](https://img.shields.io/badge/CloudStream-3-blue?style=for-the-badge&logo=android&logoColor=white)](https://cloudstream.cf/)
 [![Son Güncelleme](https://img.shields.io/badge/Güncelleme-Ekim%202026-brightgreen?style=for-the-badge&logo=github)](https://github.com/hrtestingx/hrcsrepo)
@@ -52,20 +52,50 @@ https://raw.githubusercontent.com/hrtestingx/hrcsrepo/master/repo.json
 
 ## 📦 Depodaki Eklentiler
 
-Bu depo, farklı izleme alışkanlıklarına ve içerik türlerine özel olarak geliştirilmiş 5 bağımsız eklenti içerir:
+Bu depo, farklı izleme alışkanlıklarına ve içerik türlerine özel olarak geliştirilmiş 6 bağımsız eklenti içerir:
 
 ```
 hrcsrepo
- ├── 🍙 HR Anime          ➔ Popüler Türkçe Anime Sağlayıcıları
- ├── 🌸 HR AsianDrama       ➔ Kore, Çin, Japon Dizi ve Sineması
- ├── 📱 HR ShortDrama       ➔ Dikey Mini Diziler & Reels Formatı
+ ├── 🎬 HR Series          ➔ Popüler Yabancı & Yerli Dizi Sağlayıcıları
+ ├── 🍙 HR Anime           ➔ Popüler Türkçe Anime Sağlayıcıları
+ ├── 🌸 HR AsianDrama      ➔ Kore, Çin, Japon Dizi ve Sineması
+ ├── 📱 HR ShortDrama      ➔ Dikey Mini Diziler & Reels Formatı
  ├── 🧸 HR Kids            ➔ Çizgi Film, Animasyon & Çocuk İçerikleri
  └── 📺 HR Live            ➔ Canlı TV, Spor & Tematik Yayınlar
 ```
 
 ---
 
-### 🍙 1. HR Anime
+### 🎬 1. HR Series
+> **Yabancı ve Yerli Dizilerin En Kapsamlı Toplu Paketi**
+
+Gelişmiş video oynatıcı entegrasyonları, doğrudan HLS (m3u8) akışları, Türkçe altyazı, dublaj, yerli dizi arşivi ve çoklu sunucu desteği sunar.
+
+<details>
+<summary><b>Dahili Kaynaklar (15 Sağlayıcı)</b></summary>
+<br/>
+
+- [Yabancı Dizi](https://yabancidizi.news)
+- [DiziBox](https://www.dizibox.live)
+- [DiziBoxİzle](https://diziboxizle.com)
+- [DiziPod](https://dizipod.com)
+- [DiziMag](https://ddizimag.com)
+- [Diziİzle](https://diziizle.click)
+- [DiziYou](https://www.diziyou.one)
+- [DiziZON](https://www.dizizon.com)
+- [Ddizi](https://www.ddizi.tel) *(Yerli Dizi)*
+- [DiziLife](https://dizi76.life)
+- [Dizilla](https://dizilla.now)
+- [DiziMom](https://www.dizimom.wiki)
+- [Sezonluk Dizi](https://sezonlukdizi.cc)
+- [TvDiziler](https://tvdiziler.tv) *(Yerli Dizi)*
+- [YoTurkish (EN Altyazı)](https://yoturkish.to) *(İngilizce Altyazılı Türk Dizileri)*
+
+</details>
+
+---
+
+### 🍙 2. HR Anime
 > **Türkçe Anime Dünyasının En Kapsamlı Toplu Paketi**
 
 Gelişmiş video oynatıcı entegrasyonları, doğrudan HLS akışları ve çoklu kaynak desteği sunar.
@@ -88,7 +118,7 @@ Gelişmiş video oynatıcı entegrasyonları, doğrudan HLS akışları ve çokl
 
 ---
 
-### 🌸 2. HR AsianDrama
+### 🌸 3. HR AsianDrama
 > **Kore (K-Drama), Çin (C-Drama), Japon (J-Drama) ve Tayland Yapımları**
 
 Asya dizilerini ve sinemasını yakından takip edenler için özel olarak optimize edilmiştir.
@@ -107,7 +137,7 @@ Asya dizilerini ve sinemasını yakından takip edenler için özel olarak optim
 
 ---
 
-### 📱 3. HR ShortDrama
+### 📱 4. HR ShortDrama
 > **Yeni Nesil Dikey Kısa Diziler (Reels & Mini Drama)**
 
 Dikey ekranda hızlı tüketilebilir, 1-2 dakikalık yüzlerce bölümlük popüler mini diziler.
@@ -125,7 +155,7 @@ Dikey ekranda hızlı tüketilebilir, 1-2 dakikalık yüzlerce bölümlük popü
 
 ---
 
-### 🧸 4. HR Kids
+### 🧸 5. HR Kids
 > **Çizgi Film, Animasyon & Çocuk Dünyası**
 
 Popüler yerli ve yabancı çizgi diziler, klasik animasyonlar ve çocuk programları.
@@ -143,7 +173,7 @@ Popüler yerli ve yabancı çizgi diziler, klasik animasyonlar ve çocuk program
 
 ---
 
-### 📺 5. HR Live
+### 📺 6. HR Live
 > **Canlı TV, Spor & Tematik Yayınlar**
 
 Ulusal kanallar, canlı spor yayınları, sinema, belgesel ve çocuk kanalları için hızlı ve kararlı canlı yayın akışları.
@@ -179,7 +209,7 @@ Depo adresimiz CloudStream'e eklendikten sonra yeni bir sürüm çıktığında 
 <details>
 <summary><b>3. Kaynak ayarlarını nasıl değiştirebilirim?</b></summary>
 <br/>
-CloudStream içinde <b>Ayarlar ➔ Uzantılar ➔ Eklenti Adı (örn: HR Anime)</b> üzerine gelin ve kumandanızın orta (OK) tuşuna basarak eklenti ayarlarına girin. Açılan menüden kaynakları açıp kapatabilir veya yeni domain girebilirsiniz.
+CloudStream içinde <b>Ayarlar ➔ Uzantılar ➔ Eklenti Adı (örn: HR Series, HR Anime)</b> üzerine gelin ve kumandanızın orta (OK) tuşuna basarak eklenti ayarlarına girin. Açılan menüden kaynakları açıp kapatabilir veya yeni domain girebilirsiniz.
 </details>
 
 ---

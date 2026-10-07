@@ -8,7 +8,7 @@ body:
       value: |
         ### 💡 Yeni Eklenti Önermeden Önce:
         * Bu form, mevcut eklentilere tek bir site eklemek için **değildir** (onun için *Yeni Site / Kaynak İsteği* formunu kullanın).
-        * Bu form, depoya eklenebilecek **yeni ve bağımsız bir konsept/eklenti paketi** (örneğin: *HR Belgesel*, *HR Dizi/Film* vb.) önermek içindir.
+        * Bu form, depoya eklenebilecek **yeni ve bağımsız bir konsept/eklenti paketi** (örneğin: *HR Sinema*, *HR Belgesel* vb.) önermek içindir.
         * Önerilen eklentinin CloudStream altyapısında çalışabilir video/medya kaynaklarına sahip olması gerekir.
 
   - type: input

@@ -17,6 +17,7 @@ body:
       label: "Hangi Eklenti?"
       description: "Sorunun yaşandığı eklentiyi seçin."
       options:
+        - "🎬 HR Series"
         - "🍙 HR Anime"
         - "🌸 HR AsianDrama"
         - "📱 HR ShortDrama"

@@ -17,6 +17,7 @@ body:
       label: "Konu Hangi Alanla İlgili?"
       options:
         - "📦 Genel Kurulum & Depo Bağlantısı"
+        - "🎬 HR Series"
         - "🍙 HR Anime"
         - "🌸 HR AsianDrama"
         - "📱 HR ShortDrama"
