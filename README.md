@@ -4,7 +4,7 @@
 
 Bu dal (`builds`), CloudStream 3 için derlenmiş güncel eklenti paketlerini (`.cs3`) ve eklenti manifest dosyasını (`plugins.json`) barındırır.
 
-### 🕒 Son Güncelleme: 7 Ekim 2026
+### 🕒 Son Güncelleme: 13 Ekim 2026
 
 ---
 

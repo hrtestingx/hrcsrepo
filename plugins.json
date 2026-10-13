@@ -30,14 +30,14 @@
     {
         "url": "https://raw.githubusercontent.com/hrtestingx/hrcsrepo/builds/HRAsianDrama.cs3",
         "status": 1,
-        "version": 4,
+        "version": 5,
         "name": "HR AsianDrama",
         "internalName": "HRAsianDrama",
         "authors": [
             "hrtestingx"
         ],
         "description": "HR AsianDrama - Toplu Kaynak",
-        "fileSize": 208557,
+        "fileSize": 207250,
         "repositoryUrl": "https://github.com/hrtestingx/hrcsrepo",
         "language": "tr",
         "tvTypes": [
@@ -48,19 +48,19 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://webdramaturkey2.com&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-54fd287ae4f1657dc76cabf3476d1ca0fb082a3bdf95521475dbc3d20179faba"
+        "fileHash": "sha256-06c9e620cd2727b7b3660b8658b1432e45ce72e45705e1629fcf6330933fec33"
     },
     {
         "url": "https://raw.githubusercontent.com/hrtestingx/hrcsrepo/builds/HRShortDrama.cs3",
         "status": 1,
-        "version": 5,
+        "version": 6,
         "name": "HR ShortDrama",
         "internalName": "HRShortDrama",
         "authors": [
             "hrtestingx"
         ],
         "description": "HR ShortDrama - Toplu Kısa Dizi & Drama Kaynakları",
-        "fileSize": 112415,
+        "fileSize": 112438,
         "repositoryUrl": "https://github.com/hrtestingx/hrcsrepo",
         "language": "tr",
         "tvTypes": [
@@ -71,19 +71,19 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://dramadizilerim.com&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-2678e62e3587c2d48aa03044e0fc92ca92e5b452c160e8d28b5a96debb96125d"
+        "fileHash": "sha256-d5590b443c93b8b7feb338aa831c9d1297d51b8a78a5c358a07bc47bced71a9e"
     },
     {
         "url": "https://raw.githubusercontent.com/hrtestingx/hrcsrepo/builds/HRAnime.cs3",
         "status": 1,
-        "version": 1,
+        "version": 2,
         "name": "HR Anime",
         "internalName": "HRAnime",
         "authors": [
             "hrtestingx"
         ],
         "description": "HR Anime - Toplu Türkçe Anime Kaynakları",
-        "fileSize": 233353,
+        "fileSize": 242312,
         "repositoryUrl": "https://github.com/hrtestingx/hrcsrepo",
         "language": "tr",
         "tvTypes": [
@@ -92,19 +92,19 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://animecix.tv&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-344d00c4a2ddbd4a8b06b8d9b6e46ec5dc3f3901bc44862de1cdb9e0a675b3ad"
+        "fileHash": "sha256-b46457591b4d0a4a2aa74eaadc8477f0ee83bf8f60748761aad20029ce51be9e"
     },
     {
         "url": "https://raw.githubusercontent.com/hrtestingx/hrcsrepo/builds/HRKids.cs3",
         "status": 1,
-        "version": 1,
+        "version": 2,
         "name": "HR Kids",
         "internalName": "HRKids",
         "authors": [
             "hrtestingx"
         ],
         "description": "HR Kids - Toplu Çizgi Film, Animasyon & Çocuk İçerikleri",
-        "fileSize": 135899,
+        "fileSize": 136105,
         "repositoryUrl": "https://github.com/hrtestingx/hrcsrepo",
         "language": "tr",
         "tvTypes": [
@@ -113,7 +113,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/hrtestingx/hrcsrepo/builds/icons/kids.png",
         "apiVersion": 1,
-        "fileHash": "sha256-7240f6b12df440bc72119ac16e892a52c132d6583a71fc5dbd44d4675ac3d159"
+        "fileHash": "sha256-8d21f55c5597d8a67a6e4f491b84de040b3c888f78edd44995bc7c3dcef590b4"
     },
     {
         "url": "https://raw.githubusercontent.com/hrtestingx/hrcsrepo/builds/HRLive.cs3",
@@ -138,14 +138,14 @@
     {
         "url": "https://raw.githubusercontent.com/hrtestingx/hrcsrepo/builds/HRSeries.cs3",
         "status": 1,
-        "version": 2,
+        "version": 3,
         "name": "HR Series",
         "internalName": "HRSeries",
         "authors": [
             "hrtestingx"
         ],
         "description": "HR Series - Toplu Dizi Kaynakları",
-        "fileSize": 464083,
+        "fileSize": 463399,
         "repositoryUrl": "https://github.com/hrtestingx/hrcsrepo",
         "language": "tr",
         "tvTypes": [
@@ -153,6 +153,6 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/hrtestingx/hrcsrepo/builds/icons/hrseries.png",
         "apiVersion": 1,
-        "fileHash": "sha256-8454d4bf5b3680dd09a6e7a9efa24193676810a07b387ffc2b1ac448eb5a0040"
+        "fileHash": "sha256-2af073a3f4472f53f435be1f0fc81342146d37c63fa93d1f0730d2b9eaef5237"
     }
 ]
