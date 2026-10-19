@@ -150,9 +150,16 @@ Dikey ekranda hızlı tüketilebilir, 1-2 dakikalık yüzlerce bölümlük popü
 <summary><b>Dahili Kaynaklar</b></summary>
 <br/>
 
+- [DramaBebiş](https://dramabebis.com)
+- [DramaCix](https://dramacix.com)
 - [DramaDizilerim](https://dramadizilerim.com)
+- [DramaDünyam](https://dramadunyam.com)
+- [DramaTR](https://dramatr.com)
+- [DramaVakti](https://dramavakti.com)
+- [MiniDiziİzle](https://minidiziizle.com)
 - [NetShort](https://netshort.com)
 - [ReelShort](https://www.reelshort.com)
+- [ReelsDizim](https://reelsdizim.com)
 - [Shortizle](https://shortizle.com)
 
 </details>
