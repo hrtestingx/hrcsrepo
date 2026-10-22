@@ -2,9 +2,9 @@
 
 # 🌟 HR CloudStream Eklenti Deposu (hrcsrepo)
 
-**CloudStream 3 için en kapsamlı, kararlı ve güncel Türkçe Dizi, Anime, Asya Dizileri ve Kısa Dizi arşivi.**
+**CloudStream 3 için en kapsamlı, kararlı ve güncel Türkçe Dizi, Anime, Asya Dizileri, Kısa Dizi, Çizgi Film, Canlı TV ve Canlı Yayın arşivi.**
 
-[![CloudStream 3](https://img.shields.io/badge/CloudStream-3-blue?style=for-the-badge&logo=android&logoColor=white)](https://cloudstream.cf/)
+[![CloudStream 3](https://img.shields.io/badge/CloudStream-3-blue?style=for-the-badge&logo=android&logoColor=white)](https://github.com/recloudstream/cloudstream)
 [![Son Güncelleme](https://img.shields.io/badge/Güncelleme-Ekim%202026-brightgreen?style=for-the-badge&logo=github)](https://github.com/hrtestingx/hrcsrepo)
 [![Dil](https://img.shields.io/badge/Dil-Türkçe%20🇹🇷-red?style=for-the-badge)](#)
 [![Android TV](https://img.shields.io/badge/Android%20TV-Uyumlu%20📺-orange?style=for-the-badge&logo=android)](https://github.com/hrtestingx/hrcsrepo)
@@ -39,6 +39,9 @@ CloudStream 3 uygulamasına depoyu eklemek için aşağıdaki adımları takip e
 | :--- | :---: | :--- |
 | **`hrcsrepo`** | 🟢 **Önerilen** | Doğrudan GitHub CDN üzerinden hızlı indirme |
 | **`hrcs`** | 🟡 **Alternatif** | Bazı ISS'lerde VPN veya DNS değişikliği gerekebilir |
+| **`6231`** | 🟢 **Sayısal Kod** | Alternatif kolay giriş |
+
+#### 💡 Not: Beta kullanıcıları alternatif olarak kodların başına `!` ekleyebilir (örn: `!hrcsrepo`, `!hrcs`, `!6231`).
 
 **Veya doğrudan depo bağlantısı:**
 ```text
@@ -52,7 +55,7 @@ https://raw.githubusercontent.com/hrtestingx/hrcsrepo/master/repo.json
 
 ## 📦 Depodaki Eklentiler
 
-Bu depo, farklı izleme alışkanlıklarına ve içerik türlerine özel olarak geliştirilmiş 6 bağımsız eklenti içerir:
+Bu depo, farklı izleme alışkanlıklarına ve içerik türlerine özel olarak geliştirilmiş 7 bağımsız eklenti içerir:
 
 ```
 hrcsrepo
@@ -61,7 +64,8 @@ hrcsrepo
  ├── 🌸 HR AsianDrama      ➔ Kore, Çin, Japon Dizi ve Sineması
  ├── 📱 HR ShortDrama      ➔ Dikey Mini Diziler & Reels Formatı
  ├── 🧸 HR Kids            ➔ Çizgi Film, Animasyon & Çocuk İçerikleri
- └── 📺 HR Live            ➔ Canlı TV, Spor & Tematik Yayınlar
+ ├── 📺 HR Live            ➔ Canlı TV, Spor & Tematik Yayınlar
+ └── 📡 HR Stream          ➔ Twitch, Kick & YouTube Canlı Yayınları
 ```
 
 ---
@@ -177,7 +181,6 @@ Popüler yerli ve yabancı çizgi diziler, klasik animasyonlar ve çocuk program
 
 - [ÇizgiFilmİzle Info](https://www.cizgifilmizle.info)
 - [Çizgi Site](https://www.cizgi.site)
-- [Çizgi ve Dizi](https://cizgivedizi.net)
 - [TRT Çocuk](https://www.trtcocuk.net.tr)
 
 </details>
@@ -198,6 +201,23 @@ Ulusal kanallar, canlı spor yayınları, sinema, belgesel ve çocuk kanalları 
 - 🎬 **Sinema & Dizi**
 - 🌍 **Belgesel Kanalları**
 - 🧒 **Çocuk Kanalları**
+
+</details>
+
+---
+
+### 📡 7. HR Stream
+> **Canlı Yayın Platformları (Twitch, Kick, YouTube Live)**
+
+Popüler yayın platformlarındaki canlı yayınları, kategorileri, klipleri ve geçmiş yayınları (VOD) tek çatı altında toplar. Eklenti ayarlarından dil/bölge filtresi ve kaynak seçimi yapılabilir.
+
+<details>
+<summary><b>Dahili Kaynaklar</b></summary>
+<br/>
+
+- [Twitch](https://www.twitch.tv) *(Canlı Yayın, Klip & VOD)*
+- [Kick](https://kick.com) *(Canlı Yayın, Klip & VOD)*
+- [YouTube Live](https://www.youtube.com) *(Canlı Yayın)*
 
 </details>
 

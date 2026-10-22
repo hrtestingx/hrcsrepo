@@ -23,7 +23,7 @@ body:
         - "📱 HR ShortDrama"
         - "🧸 HR Kids"
         - "📺 HR Live"
-        - "🔀 TurkishMix"
+        - "📡 HR Stream"
     validations:
       required: true
 
