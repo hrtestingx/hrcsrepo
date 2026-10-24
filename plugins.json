@@ -109,14 +109,14 @@
     {
         "url": "https://raw.githubusercontent.com/hrtestingx/hrcsrepo/builds/HRSeries.cs3",
         "status": 1,
-        "version": 4,
+        "version": 5,
         "name": "HR Series",
         "internalName": "HRSeries",
         "authors": [
             "hrtestingx"
         ],
         "description": "HR Series - Toplu Dizi Kaynakları",
-        "fileSize": 289084,
+        "fileSize": 285031,
         "repositoryUrl": "https://github.com/hrtestingx/hrcsrepo",
         "language": "tr",
         "tvTypes": [
@@ -124,7 +124,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/hrtestingx/hrcsrepo/hrcslogo/hrcsseries.webp",
         "apiVersion": 1,
-        "fileHash": "sha256-ef7ca73c66ecbb9fe53b185d5e39f108f7c2bf06b1f0fe393ef82e36e9213412"
+        "fileHash": "sha256-3df45ab346ce5b0a75cbc3c242995843c47969d634dd4029727f506a0ce113d4"
     },
     {
         "url": "https://raw.githubusercontent.com/hrtestingx/hrcsrepo/builds/HRStream.cs3",
@@ -146,5 +146,26 @@
         "iconUrl": "https://raw.githubusercontent.com/hrtestingx/hrcsrepo/hrcslogo/hrcsstream.webp",
         "apiVersion": 1,
         "fileHash": "sha256-c2e758a6a3c72751368c787c06f31e4d3ea4904ece22112731a2b390698fa934"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/hrtestingx/hrcsrepo/builds/HRMovies.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "HR Movies",
+        "internalName": "HRMovies",
+        "authors": [
+            "hrtestingx"
+        ],
+        "description": "HR Movies - Toplu Film Kaynakları",
+        "fileSize": 182127,
+        "repositoryUrl": "https://github.com/hrtestingx/hrcsrepo",
+        "language": "tr",
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/hrtestingx/hrcsrepo/hrcslogo/hrcsmovies.webp",
+        "apiVersion": 1,
+        "fileHash": "sha256-31ee0ed5d1de337382c9ae276a6493b412369f4236def74c4452bbdf5976c257"
     }
 ]
