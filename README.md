@@ -55,11 +55,12 @@ https://raw.githubusercontent.com/hrtestingx/hrcsrepo/master/repo.json
 
 ## 📦 Depodaki Eklentiler
 
-Bu depo, farklı izleme alışkanlıklarına ve içerik türlerine özel olarak geliştirilmiş 7 bağımsız eklenti içerir:
+Bu depo, farklı izleme alışkanlıklarına ve içerik türlerine özel olarak geliştirilmiş 8 bağımsız eklenti içerir:
 
 ```
 hrcsrepo
  ├── 🎬 HR Series          ➔ Popüler Yabancı & Yerli Dizi Sağlayıcıları
+ ├── 🎬 HR Movies          ➔ Popüler Türkçe Film Sağlayıcıları
  ├── 🍙 HR Anime           ➔ Popüler Türkçe Anime Sağlayıcıları
  ├── 🌸 HR AsianDrama      ➔ Kore, Çin, Japon Dizi ve Sineması
  ├── 📱 HR ShortDrama      ➔ Dikey Mini Diziler & Reels Formatı
@@ -103,7 +104,35 @@ Gelişmiş video oynatıcı entegrasyonları, doğrudan HLS (m3u8) akışları, 
 
 ---
 
-### 🍙 2. HR Anime
+### 🎬 2. HR Movies
+> **Popüler Türkçe Film Sağlayıcıları**
+
+Yerli ve yabancı sinema, 1080p Full HD yüksek çözünürlük, doğrudan HLS akışları, Türkçe dublaj ve altyazı desteği sunar.
+
+<details>
+<summary><b>Dahili Kaynaklar</b></summary>
+<br/>
+
+- [HDFilmCehennemi](https://hdfilmcehennemi.nl)
+- [FilmMakinesi](https://filmmakinesi.to)
+- [BombaFilm](https://bombafilm.com)
+- [FullHDFilmizlesene](https://www.fullhdfilmizlesene.now)
+- [FilmModu](https://filmmodu.cc)
+- [KültFilmler](https://kultfilmler.net)
+- [DiziFilmİzle](https://dizifilmizle.to)
+- [LiderFilm](https://liderfilmizle.vip)
+- [Webteizle](https://webteizle.info)
+- [FilmEkseni](https://filmekseni.vip)
+- [720izle](https://720izle.net)
+- [JetFilmİzle](https://jetfilmizle.app)
+- [SetFilmİzle](https://www.setfilmizle.ltd)
+
+</details>
+
+
+---
+
+### 🍙 3. HR Anime
 > **Türkçe Anime Dünyasının En Kapsamlı Toplu Paketi**
 
 Gelişmiş video oynatıcı entegrasyonları, doğrudan HLS akışları ve çoklu kaynak desteği sunar.
@@ -126,7 +155,7 @@ Gelişmiş video oynatıcı entegrasyonları, doğrudan HLS akışları ve çokl
 
 ---
 
-### 🌸 3. HR AsianDrama
+### 🌸 4. HR AsianDrama
 > **Kore (K-Drama), Çin (C-Drama), Japon (J-Drama) ve Tayland Yapımları**
 
 Asya dizilerini ve sinemasını yakından takip edenler için özel olarak optimize edilmiştir.
@@ -145,7 +174,7 @@ Asya dizilerini ve sinemasını yakından takip edenler için özel olarak optim
 
 ---
 
-### 📱 4. HR ShortDrama
+### 📱 5. HR ShortDrama
 > **Yeni Nesil Dikey Kısa Diziler (Reels & Mini Drama)**
 
 Dikey ekranda hızlı tüketilebilir, 1-2 dakikalık yüzlerce bölümlük popüler mini diziler.
@@ -170,7 +199,7 @@ Dikey ekranda hızlı tüketilebilir, 1-2 dakikalık yüzlerce bölümlük popü
 
 ---
 
-### 🧸 5. HR Kids
+### 🧸 6. HR Kids
 > **Çizgi Film, Animasyon & Çocuk Dünyası**
 
 Popüler yerli ve yabancı çizgi diziler, klasik animasyonlar ve çocuk programları.
@@ -187,7 +216,7 @@ Popüler yerli ve yabancı çizgi diziler, klasik animasyonlar ve çocuk program
 
 ---
 
-### 📺 6. HR Live
+### 📺 7. HR Live
 > **Canlı TV, Spor & Tematik Yayınlar**
 
 Ulusal kanallar, canlı spor yayınları, sinema, belgesel ve çocuk kanalları için hızlı ve kararlı canlı yayın akışları.
@@ -206,7 +235,7 @@ Ulusal kanallar, canlı spor yayınları, sinema, belgesel ve çocuk kanalları 
 
 ---
 
-### 📡 7. HR Stream
+### 📡 8. HR Stream
 > **Canlı Yayın Platformları (Twitch, Kick, YouTube Live)**
 
 Popüler yayın platformlarındaki canlı yayınları, kategorileri, klipleri ve geçmiş yayınları (VOD) tek çatı altında toplar. Eklenti ayarlarından dil/bölge filtresi ve kaynak seçimi yapılabilir.

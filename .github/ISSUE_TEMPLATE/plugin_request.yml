@@ -8,14 +8,14 @@ body:
       value: |
         ### 💡 Yeni Eklenti Önermeden Önce:
         * Bu form, mevcut eklentilere tek bir site eklemek için **değildir** (onun için *Yeni Site / Kaynak İsteği* formunu kullanın).
-        * Bu form, depoya eklenebilecek **yeni ve bağımsız bir konsept/eklenti paketi** (örneğin: *HR Sinema*, *HR Belgesel* vb.) önermek içindir.
+        * Bu form, depoya eklenebilecek **yeni ve bağımsız bir konsept/eklenti paketi** (örneğin: *HR Belgesel*, *HR Spor* vb.) önermek içindir.
         * Önerilen eklentinin CloudStream altyapısında çalışabilir video/medya kaynaklarına sahip olması gerekir.
 
   - type: input
     id: plugin_name
     attributes:
       label: "Önerilen Eklenti Adı"
-      placeholder: "Örn: HR Belgesel / HR Sinema"
+      placeholder: "Örn: HR Belgesel / HR Spor"
     validations:
       required: true
 

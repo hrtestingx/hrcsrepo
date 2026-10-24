@@ -34,14 +34,15 @@ Eklentilere yeni bir web sitesi veya depoya tamamen yeni bir eklenti paketi ekle
    * Agresif ve zararlı reklam yazılımları barındıran kontrolsüz siteler **kesinlikle kabul edilmez**.
 3. **Kategori Uyumu:** Önerdiğiniz site depodaki mevcut paketlerle örtüşmelidir:
    * **HR Series:** Popüler yabancı ve yerli dizi siteleri.
+   * **HR Movies:** Popüler Türkçe film siteleri.
    * **HR Anime:** Yalnızca anime ve donghua siteleri.
    * **HR AsianDrama:** Yalnızca Asya (Kore, Çin, Japon, Tayland) dizileri/filmleri.
    * **HR ShortDrama:** Dikey mini drama (Reels formatı) siteleri.
    * **HR Kids:** Çizgi film, animasyon ve eğitici çocuk içerikleri.
-   * **HR Live:** Canlı yayın platformları.
-   * **HR Stream:** Twitch, Kick & YouTube Canlı Yayınları.
+   * **HR Live:** Canlı TV, ulusal kanallar, spor ve tematik yayınlar.
+   * **HR Stream:** Twitch, Kick & YouTube canlı yayınları.
 4. **Site Değişiklikleri:** Sitenin alan adı (domain) değiştiyse yeni site isteği yerine *"Domain Güncellemesi"* olarak belirtin (ayrıca eklenti ayarlarından domain adresini kendiniz de güncelleyebilirsiniz).
-5. **Tamamen Yeni Eklenti Paketleri:** Eğer mevcut kategorilerin dışına çıkan bağımsız bir konsept öneriyorsanız (örn: *Belgesel, Sinema vb.*), *"Yeni Eklenti İsteği"* şablonunu kullanın ve en az 2-3 adet aktif örnek web kaynağı belirtin.
+5. **Tamamen Yeni Eklenti Paketleri:** Eğer mevcut kategorilerin dışına çıkan bağımsız bir konsept öneriyorsanız (örn: *Belgesel, Spor vb.*), *"Yeni Eklenti İsteği"* şablonunu kullanın ve en az 2-3 adet aktif örnek web kaynağı belirtin.
 
 ---
 
