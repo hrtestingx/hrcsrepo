@@ -89,14 +89,14 @@
     {
         "url": "https://raw.githubusercontent.com/hrtestingx/hrcsrepo/builds/HRLive.cs3",
         "status": 1,
-        "version": 1,
+        "version": 2,
         "name": "HR Live",
         "internalName": "HRLive",
         "authors": [
             "hrtestingx"
         ],
         "description": "HR Live - Toplu Canlı TV",
-        "fileSize": 19604,
+        "fileSize": 28345,
         "repositoryUrl": "https://github.com/hrtestingx/hrcsrepo",
         "language": "tr",
         "tvTypes": [
@@ -104,7 +104,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/hrtestingx/hrcsrepo/hrcslogo/hrcslive.webp",
         "apiVersion": 1,
-        "fileHash": "sha256-b357ae17e7b173c27f814c54730bd55da2ccb046c4745676edec6c0716d41787"
+        "fileHash": "sha256-1431daab2ddb051752e1f6bbae1a4d8f836d9cab5b2e2b70c2dda2bf009444ee"
     },
     {
         "url": "https://raw.githubusercontent.com/hrtestingx/hrcsrepo/builds/HRSeries.cs3",
