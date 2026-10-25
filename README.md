@@ -4,7 +4,7 @@
 
 Bu dal (`buildstest`), CloudStream 3 için derlenmiş güncel eklenti paketlerini (`.cs3`) ve eklenti manifest dosyasını (`plugins.json`) barındırır.
 
-### 🕒 Son Güncelleme: 24 Ekim 2026
+### 🕒 Son Güncelleme: 25 Ekim 2026
 
 ---
 
