@@ -1,0 +1,9 @@
+{
+  "name": "HR Cloudstream Repo Testing",
+  "description": "HR Cloudstream eklenti deposu.",
+  "manifestVersion": 1,
+  "iconUrl": "https://raw.githubusercontent.com/hrtestingx/hrcsrepo/hrcslogo/hrcslogo.webp",
+  "pluginLists": [
+    "https://raw.githubusercontent.com/hrtestingx/hrcsrepo/refs/heads/buildstest/plugins.json"
+  ]
+}
