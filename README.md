@@ -5,7 +5,7 @@
 **CloudStream 3 için en kapsamlı, kararlı ve güncel Türkçe Dizi, Anime, Asya Dizileri, Kısa Dizi, Çizgi Film, Canlı TV ve Canlı Yayın arşivi.**
 
 [![CloudStream 3](https://img.shields.io/badge/CloudStream-3-blue?style=for-the-badge&logo=android&logoColor=white)](https://github.com/recloudstream/cloudstream)
-[![Son Güncelleme](https://img.shields.io/badge/Güncelleme-Ekim%202026-brightgreen?style=for-the-badge&logo=github)](https://github.com/hrtestingx/hrcsrepo)
+[![Son Güncelleme](https://img.shields.io/badge/Güncelleme-Kasım%202026-brightgreen?style=for-the-badge&logo=github)](https://github.com/hrtestingx/hrcsrepo)
 [![Dil](https://img.shields.io/badge/Dil-Türkçe%20🇹🇷-red?style=for-the-badge)](#)
 [![Android TV](https://img.shields.io/badge/Android%20TV-Uyumlu%20📺-orange?style=for-the-badge&logo=android)](https://github.com/hrtestingx/hrcsrepo)
 [![Lisans](https://img.shields.io/badge/Lisans-GPL--3.0-purple?style=for-the-badge)](https://github.com/hrtestingx/hrcsrepo)
